@@ -7,6 +7,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This data cleaning and exploratory data analysis project aims to analyze company layoffs over time.
 
@@ -42,3 +43,14 @@ Based on the analysis, we recommend the following actions:
 ### References
 
 💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|Python|SQL|
+
+`column1`
+
+**bold**
+
+*italic*
