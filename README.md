@@ -1,5 +1,11 @@
 # Company-Layoffs-Exploratory-Data-Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](data-sources)
+- [Recommendations](#recommendations)
+
 ### Project Overview
 
 This data cleaning and exploratory data analysis project aims to analyze company layoffs over time.
