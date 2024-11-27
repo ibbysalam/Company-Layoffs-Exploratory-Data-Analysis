@@ -9,3 +9,28 @@ The primary dataset used for this analysis is the "layoffs.csv" file, containing
 
 ### Tools
 - MySQL - Data Cleaning and Exploratory Data Analysis
+  - [Download Here](https://www.mysql.com/)
+
+
+### Data Cleaning/Preparation
+In the initial data preparation phase, we performed the following tasks:
+
+### Exploratory Data Analysis
+EDA involved exploring company layoffs data to answer key questions such as:
+
+### Data Analysis
+Include some interesting code/features worked with
+
+```sql
+SELECT * FROM table
+```
+
+### Results/Findings
+The analysis results are summarized as follows:
+
+### Recommendations
+Based on the analysis, we recommend the following actions:
+
+### Limitations/Disclaimer
+
+### References
